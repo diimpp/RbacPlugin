@@ -15,9 +15,9 @@
         }
     ],
     "require": {
-        "php": "^7.2",
+        "php": "^7.1",
 
-        "sylius/sylius": "^1.4",
+        "sylius/sylius": "^1.2",
         "prooph/service-bus-symfony-bundle": "^0.7.0"
     },
     "require-dev": {
